@@ -1,0 +1,9 @@
+{
+  "versionCode": 12,
+  "versionName": "1.2",
+  "notes": "Cada teléfono queda como cámara o como visor, puedes desconectarte de las cámaras y su código se lee con la cámara normal.",
+  "apks": {
+    "arm64-v8a": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.2-arm64.apk",
+    "x86_64": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.2-x86_64.apk"
+  }
+}
