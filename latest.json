@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "1.4",
-  "notes": "Ahora ves tus cámaras y recibes sus avisos también fuera de casa, a través de la computadora de la casa.",
+  "versionCode": 15,
+  "versionName": "1.5",
+  "notes": "Fuera de casa ves tus cámaras y recibes sus avisos solo con los celulares, sin computadora. Todo va cifrado y el video llega directo.",
   "apks": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.4-arm64.apk",
-    "x86_64": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.4-x86_64.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.5-arm64.apk",
+    "x86_64": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.5-x86_64.apk"
   }
 }
