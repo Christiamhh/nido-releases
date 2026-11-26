@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.5",
-  "notes": "Fuera de casa ves tus cámaras y recibes sus avisos solo con los celulares, sin computadora. Todo va cifrado y el video llega directo.",
+  "versionCode": 16,
+  "versionName": "1.6",
+  "notes": "Te avisa cuando se levantan y te dice qué están haciendo (jugando, platicando, TV, videojuegos), según lo que se oye. Todo se calcula en el celular-cámara; el audio no sale de ahí.",
   "apks": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.5-arm64.apk",
-    "x86_64": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.5-x86_64.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.6-arm64.apk",
+    "x86_64": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.6-x86_64.apk"
   }
 }
