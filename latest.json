@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.6",
-  "notes": "Te avisa cuando se levantan y te dice qué están haciendo (jugando, platicando, TV, videojuegos), según lo que se oye. Todo se calcula en el celular-cámara; el audio no sale de ahí.",
+  "versionCode": 17,
+  "versionName": "1.7",
+  "notes": "Agrega a tu familia desde tu celular: con fotos de la galería o con «Guardar cara» en el video. Las cámaras reconocen mejor de lejos, de lado y con poca luz, y ya no dicen «desconocida» cuando la cara no se ve bien. Las fotos no salen de tu celular.",
   "apks": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.6-arm64.apk",
-    "x86_64": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.6-x86_64.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.7-arm64.apk",
+    "x86_64": "https://raw.githubusercontent.com/Christiamhh/nido-releases/main/Osera-1.7-x86_64.apk"
   }
 }
